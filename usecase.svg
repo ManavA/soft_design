@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="881px" preserveAspectRatio="none" style="width:431px;height:881px;" version="1.1" viewBox="0 0 431 881" width="431px" zoomAndPan="magnify"><defs><filter height="300%" id="f1ejl8b1k1wwef" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[1f2cfc53d9d308f53762fd0fcbaa4873]
+cluster Controller--><rect fill="#FFFFFF" filter="url(#f1ejl8b1k1wwef)" height="846" style="stroke: #000000; stroke-width: 1.5;" width="276" x="144" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="70" x="247" y="40.9659">Controller</text><ellipse cx="281.8973" cy="364.9076" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="96.3973" ry="27.9076" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="86" x="238.8973" y="358.3647">SC-Ava-Fixed</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="143" x="210.3973" y="377.4326">Ava Fixed Commands</text><ellipse cx="282.0636" cy="181.1905" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="104.0636" ry="28.1905" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="230.5636" y="175.0839">SC-Ava-Generic</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="205.5636" y="194.1518">Ava Generic Command</text><ellipse cx="282.0563" cy="272.8451" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="92.0563" ry="28.3451" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="95" x="234.5563" y="266.974">SC-Ava-Where</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="134" x="215.0563" y="286.042">Ava Where-Is Query</text><ellipse cx="282.1432" cy="731.1029" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="122.1432" ry="28.1029" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="118" x="223.1432" y="724.862">SC-Cam-Presence</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="181" x="191.6432" y="743.9299">Camera Presence Detected</text><ellipse cx="281.8989" cy="823.9046" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="79.8989" ry="29.9046" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="227.3989" y="820.4917">SC-Cam-Leaving</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="227.8989" y="839.5596">Camera Leaving</text><ellipse cx="282.0843" cy="548.9281" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="116.0843" ry="27.9281" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="229.5843" y="542.4172">SC-Cam-Activity</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="173" x="195.5843" y="561.4851">Camera Occupant Activity</text><ellipse cx="282.1738" cy="456.8785" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="92.1738" ry="28.3785" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="234.1738" y="451.0582">SC-Smoke-Fire</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="134" x="215.1738" y="470.1261">Smoke Detector Fire</text><ellipse cx="282.1794" cy="639.8488" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="117.6794" ry="27.8488" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="230.6794" y="633.2145">SC-Oven-Ready</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="176" x="194.1794" y="652.2824">Oven Cookdown Complete</text><ellipse cx="282.1568" cy="90.1535" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="120.6568" ry="27.6535" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="234.1568" y="83.2128">SC-Fridge-Low</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="182" x="191.1568" y="102.2808">Fridge Low Stock + Confirm</text><!--MD5=[05a19a76ad1f03e901bda3b0c9e05a45]
+entity OCC--><ellipse cx="53" cy="240.5" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M53,248.5 L53,275.5 M40,256.5 L66,256.5 M53,275.5 L40,290.5 M53,275.5 L66,290.5 " fill="none" filter="url(#f1ejl8b1k1wwef)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="20.5" y="310.9659">Occupant</text><!--MD5=[b643aff2f6de854ee098fa19746d9d7e]
+entity MOD--><ellipse cx="53" cy="392.5" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M53,400.5 L53,427.5 M40,408.5 L66,408.5 M53,427.5 L40,442.5 M53,427.5 L66,442.5 " fill="none" filter="url(#f1ejl8b1k1wwef)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="94" x="6" y="462.9659">Model Service</text><!--MD5=[7398776dc15e33900ff4dd698ffba06d]
+entity NINE--><ellipse cx="53" cy="511.5" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M53,519.5 L53,546.5 M40,527.5 L66,527.5 M53,546.5 L40,561.5 M53,546.5 L66,561.5 " fill="none" filter="url(#f1ejl8b1k1wwef)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="76" x="15" y="581.9659">911 Service</text><!--MD5=[817c87e780a79ebedae1451184d7a310]
+entity MAIL--><ellipse cx="53" cy="57.5" fill="#FEFECE" filter="url(#f1ejl8b1k1wwef)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M53,65.5 L53,92.5 M40,73.5 L66,73.5 M53,92.5 L40,107.5 M53,92.5 L66,107.5 " fill="none" filter="url(#f1ejl8b1k1wwef)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="89" x="8.5" y="127.9659">Email Service</text><!--MD5=[afd40db47b0b829c022411305be8a41c]
+link OCC to UC_AVA_FIXED--><path d="M85.55,292.69 C100.48,301.49 118.78,311.53 136,319 C159.87,329.35 186.83,338.55 210.98,345.94 " fill="none" id="OCC-UC_AVA_FIXED" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[af39708d4355d5f808a8fa2e64065020]
+link OCC to UC_AVA_GENERIC--><path d="M85.55,253.31 C100.48,244.51 118.78,234.47 136,227 C159.02,217.02 184.92,208.11 208.4,200.85 " fill="none" id="OCC-UC_AVA_GENERIC" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d9fec013ba994af659458992cf769e62]
+link OCC to UC_AVA_WHERE--><path d="M85.56,273 C112.61,273 152.94,273 189.96,273 " fill="none" id="OCC-UC_AVA_WHERE" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[acf1e578ae74cbdecc942848760aeaec]
+link OCC to UC_FRIDGE_LOW--><path d="M69.4,230.82 C82.64,200.13 104.6,159.76 136,135 C151.32,122.92 169.89,114.07 188.57,107.58 " fill="none" id="OCC-UC_FRIDGE_LOW" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e303a2482b6f34440bd8e3c678a34f4e]
+link OCC to UC_SMOKE_FIRE--><path d="M75.08,315.27 C93.36,350.44 119.41,396.79 136,410 C155.05,425.17 179.13,435.5 202.17,442.52 " fill="none" id="OCC-UC_SMOKE_FIRE" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a66f03b1f8726a3ef5079b4a376c7759]
+link MOD to UC_CAM_PRES--><path d="M90.05,467.02 C93.85,472.81 97.3,478.88 100,485 C136.65,568.03 75.92,617.98 136,686 C147.78,699.33 163.43,708.77 180.09,715.42 " fill="none" id="MOD-UC_CAM_PRES" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[85b4e91c4c26b7e32bc279f75d339a6e]
+link MOD to UC_CAM_LEAVE--><path d="M90.59,467.23 C94.25,472.94 97.51,478.93 100,485 C149.52,606.02 52.77,676.15 136,777 C153.01,797.61 179.17,809.28 204.61,815.84 " fill="none" id="MOD-UC_CAM_LEAVE" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b5d2c81bedb9c425cccbeff78919eda0]
+link MOD to UC_CAM_ACTIVITY--><path d="M91.03,467.07 C104.17,480.03 119.76,493.4 136,503 C154.87,514.15 176.75,522.91 197.7,529.65 " fill="none" id="MOD-UC_CAM_ACTIVITY" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9b5bd6c630edbca0afbc1619a085c533]
+link MOD to UC_AVA_FIXED--><path d="M100.21,412.79 C131.71,404.46 174.03,393.27 209.81,383.82 " fill="none" id="MOD-UC_AVA_FIXED" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[eb8a024f1f63094c38ab29b5ec6b8df3]
+link MOD to UC_AVA_GENERIC--><path d="M76.24,382.94 C84.19,367.17 92.93,348.96 100,332 C118.98,286.46 100.72,261.48 136,227 C151.3,212.05 171.43,201.95 191.81,195.14 " fill="none" id="MOD-UC_AVA_GENERIC" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5bd558497ff00f5c6c54dc7f3cca9288]
+link MOD to UC_AVA_WHERE--><path d="M77.88,382.96 C92.21,361.11 112.25,335.59 136,319 C156.03,305.01 180.51,295.12 203.62,288.2 " fill="none" id="MOD-UC_AVA_WHERE" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[04230624dd4ec75b73507fe156dba3a0]
+link MOD to UC_SMOKE_FIRE--><path d="M100.21,431.51 C128.21,435.46 164.76,440.61 197.67,445.25 " fill="none" id="MOD-UC_SMOKE_FIRE" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ac7dd0fb95d85fe9e3051c33479f7829]
+link MOD to UC_OVEN_DONE--><path d="M89.01,467.08 C93.03,472.9 96.82,478.96 100,485 C123.99,530.5 99.35,558.91 136,595 C149.43,608.22 166.67,617.57 184.54,624.18 " fill="none" id="MOD-UC_OVEN_DONE" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3f197b395576755ad8dd31fcae73dd0a]
+link MOD to UC_FRIDGE_LOW--><path d="M77.87,383 C85.91,367.39 94.28,349.27 100,332 C128,247.51 76.96,201.6 136,135 C148.06,121.39 164.16,111.85 181.24,105.17 " fill="none" id="MOD-UC_FRIDGE_LOW" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b093d9d55f1d3b0bdef0f2207a802f04]
+link NINE to UC_SMOKE_FIRE--><path d="M91.06,524.56 C104.96,517.63 121.02,510.05 136,504 C161.15,493.85 189.41,484.29 214.25,476.48 " fill="none" id="NINE-UC_SMOKE_FIRE" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6aef96b549317d93b0442652f09dde43]
+link MAIL to UC_FRIDGE_LOW--><path d="M97.77,90 C116.19,90 138.62,90 161.37,90 " fill="none" id="MAIL-UC_FRIDGE_LOW" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[38fa0d560d8612b8362676dd905c10c4]
+@startuml
+left to right direction
+actor Occupant as OCC
+actor "Model Service" as MOD
+actor "911 Service" as NINE
+actor "Email Service" as MAIL
+
+rectangle Controller {
+  usecase "SC-Ava-Fixed\nAva Fixed Commands" as UC_AVA_FIXED
+  usecase "SC-Ava-Generic\nAva Generic Command" as UC_AVA_GENERIC
+  usecase "SC-Ava-Where\nAva Where-Is Query" as UC_AVA_WHERE
+  usecase "SC-Cam-Presence\nCamera Presence Detected" as UC_CAM_PRES
+  usecase "SC-Cam-Leaving\nCamera Leaving" as UC_CAM_LEAVE
+  usecase "SC-Cam-Activity\nCamera Occupant Activity" as UC_CAM_ACTIVITY
+  usecase "SC-Smoke-Fire\nSmoke Detector Fire" as UC_SMOKE_FIRE
+  usecase "SC-Oven-Ready\nOven Cookdown Complete" as UC_OVEN_DONE
+  usecase "SC-Fridge-Low\nFridge Low Stock + Confirm" as UC_FRIDGE_LOW
+}
+
+OCC - - UC_AVA_FIXED
+OCC - - UC_AVA_GENERIC
+OCC - - UC_AVA_WHERE
+OCC - - UC_FRIDGE_LOW
+OCC - - UC_SMOKE_FIRE
+MOD - - UC_CAM_PRES
+MOD - - UC_CAM_LEAVE
+MOD - - UC_CAM_ACTIVITY
+MOD - - UC_AVA_FIXED
+MOD - - UC_AVA_GENERIC
+MOD - - UC_AVA_WHERE
+MOD - - UC_SMOKE_FIRE
+MOD - - UC_OVEN_DONE
+MOD - - UC_FRIDGE_LOW
+NINE - - UC_SMOKE_FIRE
+MAIL - - UC_FRIDGE_LOW
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 02:22:07 PST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.7+6-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

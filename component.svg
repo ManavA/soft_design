@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="247px" preserveAspectRatio="none" style="width:612px;height:247px;" version="1.1" viewBox="0 0 612 247" width="612px" zoomAndPan="magnify"><defs><filter height="300%" id="fk6d3pgitn81i" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[b56afe190224693672a515b295530cbc]
+cluster House Mate System--><polygon fill="#FFFFFF" filter="url(#fk6d3pgitn81i)" points="57.5,24,201.5,24,208.5,49.0679,590.5,49.0679,590.5,235,57.5,235,57.5,24" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="57.5" x2="208.5" y1="49.0679" y2="49.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="138" x="61.5" y="40.9659">House Mate System</text><!--MD5=[d98cb1d0eeb2b90d1ef52cfc0fcf4fea]
+entity Model--><rect fill="#FEFECE" filter="url(#fk6d3pgitn81i)" height="39.0679" style="stroke: #A80036; stroke-width: 1.5;" width="194" x="104.5" y="180"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="99.5" y="185"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="99.5" y="209.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="174" x="114.5" y="204.9659">Housemate Model Service</text><!--MD5=[f855680bc6c989572ebb25245d27968d]
+entity Controller--><rect fill="#FEFECE" filter="url(#fk6d3pgitn81i)" height="39.0679" style="stroke: #A80036; stroke-width: 1.5;" width="139" x="167" y="62"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="162" y="67"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="162" y="91.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="119" x="177" y="86.9659">Controller Service</text><!--MD5=[f62e4c6e8e515970cea3fa7aec7f2a1d]
+entity KG--><rect fill="#FEFECE" filter="url(#fk6d3pgitn81i)" height="39.0679" style="stroke: #A80036; stroke-width: 1.5;" width="141" x="365" y="180"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="360" y="185"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="360" y="209.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="121" x="375" y="204.9659">Knowledge Graph</text><!--MD5=[5183cb2edb5cf492c7a53635436e61b6]
+entity Console--><ellipse cx="32.5" cy="81.5" fill="#FEFECE" filter="url(#fk6d3pgitn81i)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="53" x="6" y="113.4659">Console</text><!--MD5=[07aa7578b3f68a176666f6b88d04ae14]
+link Model to Controller--><path d="M207.11,179.91 C213.15,159.89 222.78,127.98 229.36,106.17 " fill="none" id="Model-&gt;Controller" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="230.88,101.14,224.4523,108.6023,229.4367,105.9272,232.1118,110.9115,230.88,101.14" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="148" x="221.5" y="145.897">Device events (Observer)</text><!--MD5=[7a25e1c0cf9f57ccf31195bd84e79339]
+link Controller to Model--><path d="M166.66,92 C143.3,98.87 119.63,110.7 105.5,131 C91.8,150.68 110.98,166.53 135.71,177.91 " fill="none" id="Controller-&gt;Model" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="140.38,179.98,133.776,172.6733,135.8098,177.952,130.5311,179.9857,140.38,179.98" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="95" x="106.5" y="145.897">setDeviceStatus</text><!--MD5=[3f43539d3f0abcd912963bef6a8a3876]
+link Controller to KG--><path d="M306.1,98.1 C330.35,105.58 356.88,116.23 378.5,131 C395.6,142.68 410.52,160.82 420.8,175.35 " fill="none" id="Controller-&gt;KG" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="423.84,179.74,421.9919,170.0661,420.988,175.6332,415.421,174.6293,423.84,179.74" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="137" x="399.5" y="145.897">location/status queries</text><!--MD5=[e23f11960b3483e5c9321a184455d668]
+reverse link Console to Controller--><path d="M46.62,81.5 C71.23,81.5 123.5,81.5 166.98,81.5 " fill="none" id="Console&lt;-Controller" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="41.53,81.5,50.53,85.5,46.53,81.5,50.53,77.5,41.53,81.5" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="80" x="64.25" y="74.397">logs + speech</text><!--MD5=[161b5a1fe4a0a62734909bd79b6230e3]
+@startuml
+skinparam componentStyle rectangle
+package "House Mate System" {
+  [Housemate Model Service] as Model
+  [Controller Service] as Controller
+  [Knowledge Graph] as KG
+}
+Model -down-> Controller: Device events (Observer)
+Controller -right-> Model: setDeviceStatus
+Controller -down-> KG: location/status queries
+Controller -left-> Console: logs + speech
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 02:22:07 PST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.7+6-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

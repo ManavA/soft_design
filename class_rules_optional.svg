@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="402px" preserveAspectRatio="none" style="width:645px;height:402px;" version="1.1" viewBox="0 0 645 402" width="645px" zoomAndPan="magnify"><defs><filter height="300%" id="fntym1h7r0nfs" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[4cf87534c235239d37db4adfd136fff4]
+class Rule--><rect fill="#FEFECE" filter="url(#fntym1h7r0nfs)" height="92.9457" id="Rule" style="stroke: #A80036; stroke-width: 1.5;" width="334" x="6" y="299"/><ellipse cx="157.25" cy="315" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M153.1719,310.7656 L153.1719,308.6094 L160.5625,308.6094 L160.5625,310.7656 L158.0938,310.7656 L158.0938,318.8438 L160.5625,318.8438 L160.5625,321 L153.1719,321 L153.1719,318.8438 L155.6406,318.8438 L155.6406,310.7656 L153.1719,310.7656 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="23" x="177.75" y="319.656">Rule</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="339" y1="331" y2="331"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="339" y1="339" y2="339"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="301" x="12" y="354.7589">+matches(e: DeviceEvent, ctx: ControllerContext): boolean</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="322" x="12" y="369.7408">+evaluate(e: DeviceEvent, ctx: ControllerContext): List&lt;Action&gt;</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="79" x="12" y="384.7227">+name(): String</text><!--MD5=[a0912f9b91e10c4e08087da3a25348dc]
+class RuleEngine--><rect fill="#FEFECE" filter="url(#fntym1h7r0nfs)" height="77.9638" id="RuleEngine" style="stroke: #A80036; stroke-width: 1.5;" width="333" x="133.5" y="161"/><ellipse cx="264.75" cy="177" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M267.7188,182.6406 Q267.1406,182.9375 266.5,183.0781 Q265.8594,183.2344 265.1563,183.2344 Q262.6563,183.2344 261.3281,181.5938 Q260.0156,179.9375 260.0156,176.8125 Q260.0156,173.6875 261.3281,172.0313 Q262.6563,170.375 265.1563,170.375 Q265.8594,170.375 266.5,170.5313 Q267.1563,170.6875 267.7188,170.9844 L267.7188,173.7031 Q267.0938,173.125 266.5,172.8594 Q265.9063,172.5781 265.2813,172.5781 Q263.9375,172.5781 263.25,173.6563 Q262.5625,174.7188 262.5625,176.8125 Q262.5625,178.9063 263.25,179.9844 Q263.9375,181.0469 265.2813,181.0469 Q265.9063,181.0469 266.5,180.7813 Q267.0938,180.5 267.7188,179.9219 L267.7188,182.6406 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="62" x="285.25" y="181.656">RuleEngine</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="134.5" x2="465.5" y1="193" y2="193"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="89" x="139.5" y="208.7589">-rules: List&lt;Rule&gt;</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="134.5" x2="465.5" y1="215.9819" y2="215.9819"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="321" x="139.5" y="231.7408">+onEvent(e: DeviceEvent, ctx: ControllerContext): List&lt;Action&gt;</text><!--MD5=[d0956e5c0989f9527c09c0f6283a84af]
+class ControllerServiceImpl--><rect fill="#FEFECE" filter="url(#fntym1h7r0nfs)" height="92.9457" id="ControllerServiceImpl" style="stroke: #A80036; stroke-width: 1.5;" width="157" x="355.5" y="8"/><ellipse cx="371.85" cy="24" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M374.8188,29.6406 Q374.2406,29.9375 373.6,30.0781 Q372.9594,30.2344 372.2563,30.2344 Q369.7563,30.2344 368.4281,28.5938 Q367.1156,26.9375 367.1156,23.8125 Q367.1156,20.6875 368.4281,19.0313 Q369.7563,17.375 372.2563,17.375 Q372.9594,17.375 373.6,17.5313 Q374.2563,17.6875 374.8188,17.9844 L374.8188,20.7031 Q374.1938,20.125 373.6,19.8594 Q373.0063,19.5781 372.3813,19.5781 Q371.0375,19.5781 370.35,20.6563 Q369.6625,21.7188 369.6625,23.8125 Q369.6625,25.9063 370.35,26.9844 Q371.0375,28.0469 372.3813,28.0469 Q373.0063,28.0469 373.6,27.7813 Q374.1938,27.5 374.8188,26.9219 L374.8188,29.6406 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="122" x="386.15" y="28.656">ControllerServiceImpl</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="356.5" x2="511.5" y1="40" y2="40"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="105" x="361.5" y="55.7589">-engine: RuleEngine</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="145" x="361.5" y="70.7408">-invoker: CommandInvoker</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="356.5" x2="511.5" y1="77.9638" y2="77.9638"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="107" x="361.5" y="93.7227">+onStatusChange(...)</text><!--MD5=[f8e7078f77c005d15b486c0c98deb1e6]
+class Action--><rect fill="#FEFECE" filter="url(#fntym1h7r0nfs)" height="77.9638" id="Action" style="stroke: #A80036; stroke-width: 1.5;" width="106" x="375" y="306.5"/><ellipse cx="408.45" cy="322.5" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M404.3719,318.2656 L404.3719,316.1094 L411.7625,316.1094 L411.7625,318.2656 L409.2938,318.2656 L409.2938,326.3438 L411.7625,326.3438 L411.7625,328.5 L404.3719,328.5 L404.3719,326.3438 L406.8406,326.3438 L406.8406,318.2656 L404.3719,318.2656 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="33" x="426.55" y="327.156">Action</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="376" x2="480" y1="338.5" y2="338.5"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="376" x2="480" y1="346.5" y2="346.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="52" x="381" y="362.2589">+execute()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="94" x="381" y="377.2408">+describe(): String</text><!--MD5=[1094fe2baf57ccf29e390aed09145014]
+class CommandInvoker--><rect fill="#FEFECE" filter="url(#fntym1h7r0nfs)" height="77.9638" id="CommandInvoker" style="stroke: #A80036; stroke-width: 1.5;" width="132" x="502" y="161"/><ellipse cx="517" cy="177" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M519.9688,182.6406 Q519.3906,182.9375 518.75,183.0781 Q518.1094,183.2344 517.4063,183.2344 Q514.9063,183.2344 513.5781,181.5938 Q512.2656,179.9375 512.2656,176.8125 Q512.2656,173.6875 513.5781,172.0313 Q514.9063,170.375 517.4063,170.375 Q518.1094,170.375 518.75,170.5313 Q519.4063,170.6875 519.9688,170.9844 L519.9688,173.7031 Q519.3438,173.125 518.75,172.8594 Q518.1563,172.5781 517.5313,172.5781 Q516.1875,172.5781 515.5,173.6563 Q514.8125,174.7188 514.8125,176.8125 Q514.8125,178.9063 515.5,179.9844 Q516.1875,181.0469 517.5313,181.0469 Q518.1563,181.0469 518.75,180.7813 Q519.3438,180.5 519.9688,179.9219 L519.9688,182.6406 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="100" x="531" y="181.656">CommandInvoker</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="503" x2="633" y1="193" y2="193"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="503" x2="633" y1="201" y2="201"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="103" x="508" y="216.7589">+enqueue(a: Action)</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="67" x="508" y="231.7408">+drainOnce()</text><!--MD5=[9f359377eb0fa5e670c540c4098df68b]
+link ControllerServiceImpl to RuleEngine--><path d="M391.23,101.3 C374.57,119.14 355.6,139.46 339.28,156.93 " fill="none" id="ControllerServiceImpl-&gt;RuleEngine" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="335.63,160.84,344.6956,156.991,339.0421,157.1852,338.8479,151.5317,335.63,160.84" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[be2eaa390808b7b59bc0aab1abd3b5a3]
+link RuleEngine to Rule--><path d="M266.3,239.08 C251.2,256.14 233.2,276.48 217.05,294.73 " fill="none" id="RuleEngine-&gt;Rule" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="213.42,298.83,222.3812,294.7438,216.7347,295.0867,216.3918,289.4402,213.42,298.83" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1af824c40041d5260fd49312d5da007f]
+link RuleEngine to Action--><path d="M333.97,239.08 C351.32,258.54 372.5,282.27 390.35,302.29 " fill="none" id="RuleEngine-&gt;Action" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="393.88,306.24,390.8703,296.8623,390.5502,302.5101,384.9024,302.1899,393.88,306.24" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[345f63a3e4c71414cb0c5a97ca19ab50]
+link ControllerServiceImpl to CommandInvoker--><path d="M476.77,101.3 C493.43,119.14 512.4,139.46 528.72,156.93 " fill="none" id="ControllerServiceImpl-&gt;CommandInvoker" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="532.37,160.84,529.1521,151.5317,528.9579,157.1852,523.3044,156.991,532.37,160.84" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[10d536148c364d759300c608adac93b3]
+@startuml
+skinparam classAttributeIconSize 0
+
+interface Rule {
+  +matches(e: DeviceEvent, ctx: ControllerContext): boolean
+  +evaluate(e: DeviceEvent, ctx: ControllerContext): List<Action>
+  +name(): String
+}
+
+class RuleEngine {
+  -rules: List<Rule>
+  +onEvent(e: DeviceEvent, ctx: ControllerContext): List<Action>
+}
+
+class ControllerServiceImpl {
+  -engine: RuleEngine
+  -invoker: CommandInvoker
+  +onStatusChange(...)
+}
+
+interface Action {
+  +execute()
+  +describe(): String
+}
+
+class CommandInvoker {
+  +enqueue(a: Action)
+  +drainOnce()
+}
+
+ControllerServiceImpl - -> RuleEngine
+RuleEngine - -> Rule
+RuleEngine - -> Action
+ControllerServiceImpl - -> CommandInvoker
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 02:22:07 PST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.7+6-LTS
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
